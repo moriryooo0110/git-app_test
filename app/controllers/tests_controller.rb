@@ -1,3 +1,4 @@
 class ApplicationController < ActionController::Base
-  <a href ='tests#index'></a>
+def index
+end
 end
